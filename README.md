@@ -14,4 +14,4 @@ Ig- _itz_arnav.69
 Replit- /@itzAustin69
 
 print("YOU JUST CAN'T EVER BEAT ME")
-print("TIGHT CIRCLE, NO FUCKS TO HATERS LMAO")
+print("TIGHT CIRCLE, NO FUCKS TO MFS LMAO")
