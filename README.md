@@ -1,8 +1,8 @@
-readme.exe               ⎯⠀❐⠀⤬
+readme.md               ⎯⠀❐⠀⤬
 
 py (BASH)
 class __LORD__(About): "NAME IS ENGH"
-    def __init__(self) : </> $5
+    def __init__(self) : </> $>
         self.name = "ARNAV"        self.location = "INDIA"
         self.age = "ERROR.UNSPECIFIED_FIELD" 
 
