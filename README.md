@@ -1,17 +1,1 @@
-readme.md               ⎯⠀❐⠀⤬
-
-py (BASH)
-class __LORD__(About): "NAME IS ENGH"
-    def __init__(self) : </> $>
-        self.name = "ARNAV"        self.location = "INDIA"
-        self.age = "ERROR.UNSPECIFIED_FIELD" 
-
-print("LORD ON TOP")
-
-INTO ETHICAL PENETRATION TESTING OR WHITE HACKING AND GAMING (EXTREMELY). I JUST LOVE PYTHON AND JAVASCRIPT. ALWAYS CONNECTED TO A SECURE VPN WITH
-TOR, SO DON'T EVER THINK U'D BE ABLE TO TRACE ME LMFAO. PRIVATE REPOS ON REPLIT. THAT'S ENOUGH BITCH, KABHI AUKAAT DEKHNI HO TO DM KRNA 
-Ig- _itz_arnav.69
-Replit- /@itzAustin69
-
-print("YOU JUST CAN'T EVER BEAT ME")
-print("TIGHT CIRCLE, NO FUCKS TO MFS LMAO")
+don't readme
