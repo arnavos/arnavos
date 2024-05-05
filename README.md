@@ -1,2 +1,4 @@
 don't readme
-![Visitor Count](https : //profile-counter.glitch.me/{arnavos}/count.svg)
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=arnavos&left_color=green&right_color=red)
+              
