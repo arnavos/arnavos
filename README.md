@@ -1,4 +1,4 @@
-<h3 align="center">active on this account since may 2024. most of my repos are private and intended for educational purposes only. *i'm not responsible for any unethical usage of my works.*</h3>
+<h3 align="center">active on this account since may 2024. most of my repos are private and all of them are intended for educational purposes only. *i'm not responsible for any unethical usage of my works.*</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnavos&label=Profile%20views&color=0e75b6&style=flat" alt="arnavos" /> </p>
 
